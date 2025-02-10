@@ -1,0 +1,30 @@
+[
+    {
+      "_id": { "$oid": "64392d39dfd90fb29e464fb7" },
+      "title": "Cottage",
+      "description": "Escape to a charming countryside retreat where nature meets comfort. Nestled in a serene meadow, this cozy cottage offers a peaceful getaway with picturesque views and rustic charm. Featuring warm wooden interiors, a stone fireplace, and a sunlit porch, it's the perfect place to unwind. Whether you're sipping morning coffee surrounded by wildflowers or stargazing by the firepit, this cottage is a true haven of relaxation and beauty.",
+      "price": 6500,
+      "address": "yercaud",
+      "city": "salem",
+      "country": "India",
+      "image": "https://www.tipperary.in/assets/images/accommodations/tipperary_cottage/01.jpg",
+      "userEmail": "mukhtarhamza294@gmail.com",
+      "createdAt": { "$date": "2023-04-14T10:38:48.762Z" },
+      "updatedAt": { "$date": "2023-04-14T10:38:48.762Z" },
+      "facilities": { "bathrooms": "2", "parking": "1", "bedrooms": "5" }
+    },
+    {
+      "_id": { "$oid": "64392e0bdfd90fb29e464fbc" },
+      "title": "Beach House",
+      "description": "Wake up to the soothing sound of waves and breathtaking ocean views at this stunning beach house retreat. Nestled along the shoreline, this coastal haven offers an open-concept design with sun-drenched interiors, panoramic windows, and a spacious deck perfect for soaking in the sea breeze.",
+      "price": 7500,
+      "address": "Near Palolem Beach",
+      "city": "Canacona,Goa",
+      "country": "India",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJAqP_fqp84Slf1nZy8A1UE4nqNk3_8fgEtA&s",
+      "facilities": { "bathrooms": "5", "parking": "1", "bedrooms": "4" },
+      "userEmail": "mukhtarhamza294@gmail.com",
+      "createdAt": { "$date": "2023-04-14T10:42:19.231Z" },
+      "updatedAt": { "$date": "2023-04-14T10:42:19.231Z" }
+    },
+]
